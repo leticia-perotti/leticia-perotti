@@ -13,9 +13,8 @@
   <a href="https://github.com/leticia-perotti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticia-perotti&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-perotti&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=leticia-perotti&theme=radical&date_format=j%20M%5B%20Y%5D"/>
 </div>
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leticia-perotti&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Leticia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
