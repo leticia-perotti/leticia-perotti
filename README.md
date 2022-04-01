@@ -23,6 +23,7 @@
   <img align="center" alt="Leticia-PHP" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
   <img align="center" alt="Leticia-TS" height="30" width="40" src="https://www.svgrepo.com/show/303600/typescript-logo.svg">
   <img align="center" alt="Leticia-PY" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png">
+    <img align="center" alt="Leticia-DJ" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/django.svg">
 </div>
   
   ##
