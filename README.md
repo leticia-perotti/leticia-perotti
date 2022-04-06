@@ -6,6 +6,7 @@
 - 💻 Desenvolvimento web
 - 📘 Cursando Sistemas de Informação
 - 🤩 Sempre buscando novos conhecimentos
+- 🙋‍♀️ 17 anos
 
 
 
