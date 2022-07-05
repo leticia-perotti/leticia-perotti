@@ -2,11 +2,11 @@
 
 ### Olá! Eu sou a Letícia Perotti. Bem vindo ao meu perfil😊
 
-- 👩‍💻 Software Developer
+- 👩‍💻 Jr oftware Developer
 - 💻 Desenvolvimento web e desktop
 - 📘 Cursando Sistemas de Informação
 - 🤩 Sempre buscando novos conhecimentos
-- 🙋‍♀️ 17 anos
+- 🙋‍♀️ 18 anos
 
 
 
