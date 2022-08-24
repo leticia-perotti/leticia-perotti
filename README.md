@@ -2,12 +2,12 @@
 
 ### Olá! Eu sou a Letícia Perotti. Bem vindo ao meu perfil😊
 
-- 👩‍💻 Jr Software Developer
+- 👩‍💻 Jr Fullstack Software Developer
 - 💻 Desenvolvimento web e desktop
 - 📘 Cursando Sistemas de Informação
+- 👩‍🎓 Técnica em infomática
 - 🤩 Sempre buscando novos conhecimentos
 - 🙋‍♀️ 18 anos
-
 
 
 <div align="center">
@@ -23,8 +23,9 @@
   <img align="center" alt="Leticia-Delphi" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Delphi_Language_Logo.png">
   <img align="center" alt="Leticia-Angular" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/375px-Angular_full_color_logo.svg.png">
     <img align="center" alt="Leticia-TS" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20210506173343">
-        <img align="center" alt="Leticia-TS" height="30" width="30" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo-300x270.png">
-        <img align="center" alt="Leticia-TS" height="30" width="30" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png">
+        <img align="center" alt="Spring boot" height="30" width="30" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo-300x270.png">
+        <img align="center" alt="Postges" height="30" width="30" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png">
+         <img align="center" alt="Kotlin" height="30" width="30" src="https://img.icons8.com/color/452/kotlin.png">
 </div>
   
   ##
