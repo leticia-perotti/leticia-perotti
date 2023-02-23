@@ -20,7 +20,6 @@
   <img align="center" alt="Leticia-Js" height="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png">
   <img align="center" alt="Leticia-HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leticia-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leticia-Delphi" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Delphi_Language_Logo.png">
   <img align="center" alt="Leticia-Angular" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/375px-Angular_full_color_logo.svg.png">
     <img align="center" alt="Leticia-TS" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20210506173343">
         <img align="center" alt="Spring boot" height="30" width="30" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo-300x270.png">
