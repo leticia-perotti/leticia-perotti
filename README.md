@@ -7,7 +7,7 @@
 - 📘 Sistemas de Informação
 - 👩‍🎓 Técnica em infomática
 - 🤩 Sempre buscando novos conhecimentos
-- 🙋‍♀️ 18 anos
+- 🙋‍♀️ 21 anos
 
 
 <div align="center">
