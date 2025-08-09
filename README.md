@@ -2,7 +2,7 @@
 
 ### Olá! Eu sou a Letícia Perotti. Bem vindo ao meu perfil😊
 
-- 👩‍💻 Jr Fullstack Software Developer
+- 👩‍💻 Fullstack Software Developer
 - 💻 SpringBoot + Angular
 - 📘 Sistemas de Informação
 - 👩‍🎓 Técnica em infomática
