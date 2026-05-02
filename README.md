@@ -4,10 +4,6 @@
 
 - 👩‍💻 Fullstack Software Developer
 - 💻 SpringBoot + Angular
-- 📘 Sistemas de Informação
-- 👩‍🎓 Técnica em infomática
-- 🤩 Sempre buscando novos conhecimentos
-- 🙋‍♀️ 21 anos
 
 
 <div align="center">
